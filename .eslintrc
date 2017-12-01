@@ -1,5 +1,6 @@
 {
   "extends": ["vtex"],
+  "parser": "babel-eslint",
   "env": {
     "jest": true
   },
