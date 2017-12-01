@@ -1,0 +1,28 @@
+{
+  "name": "adventofcode2017",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zehfernandes/adventofcode2017.git"
+  },
+  "author": "Zeh Fernandes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zehfernandes/adventofcode2017/issues"
+  },
+  "homepage": "https://github.com/zehfernandes/adventofcode2017#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.11.1",
+    "eslint-config-vtex": "^5.0.2",
+    "jest-cli": "^18.0.0",
+    "prettier-eslint": "^8.2.2"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}

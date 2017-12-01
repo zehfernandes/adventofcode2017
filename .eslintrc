@@ -1,0 +1,9 @@
+{
+  "extends": ["vtex"],
+  "env": {
+    "jest": true
+  },
+  "rules": {
+    "keyword-spacing": [2, { "overrides": { "while": { "before": true } } }]
+  }
+}
