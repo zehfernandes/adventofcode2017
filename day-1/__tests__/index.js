@@ -1,5 +1,5 @@
 const { firstAnswer, secondAnswer, parser } = require('../index.js')
-/*
+
 describe('Part 1 - Inverse Captcha', () => {
   test('Check parser', () => {
     const result = parser('1122')
@@ -26,7 +26,7 @@ describe('Part 1 - Inverse Captcha', () => {
     expect(result).toEqual(9)
   })
 })
-*/
+
 describe('Part 2 - Inverse Captcha', () => {
   test('Check case 1212', () => {
     const result = secondAnswer('1212')
