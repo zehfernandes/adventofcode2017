@@ -8,7 +8,10 @@ Wish me luck 😃
 
 ### What I want learn in the next days:
 
-* [ ] How to call a especific test with jest cli
+* [x] How to call a especific test with jest cli
+```
+npm test -- -t "Day 2 - Check parser"
+```
 * [ ] Use import without `babel node` or renaming `js` file `mjs` (Is it alrelty
       possible?)
 * [ ] Learn a good way to pipe functions: `getData().parse()`
