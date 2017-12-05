@@ -12,6 +12,10 @@ Wish me luck 😃
 ```
 npm test -- -t "Day 2 - Check parser"
 ```
+* [x] Use [Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set) to discover if array has duplicates values.
+```
+return (new Set(array)).size !== array.length
+```
 * [ ] Use import without `babel node` or renaming `js` file `mjs` (Is it alrelty
       possible?)
 * [ ] Learn a good way to pipe functions: `getData().parse()`
