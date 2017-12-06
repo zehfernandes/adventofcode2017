@@ -20,11 +20,9 @@ const firstAnswer = input => {
     count = count + data[count] - 1
 
     i++
-
-    if (data[count] === undefined) {
-      return i
-    }
   }
+
+  return i
 }
 
 const secondAnswer = input => {
@@ -46,11 +44,9 @@ const secondAnswer = input => {
     count = count + data[count] - 1
 
     i++
-
-    if (data[count] === undefined) {
-      return i
-    }
   }
+
+  return i
 }
 
 /*
